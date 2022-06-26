@@ -29,4 +29,4 @@ Following are the study plans : -
 - [ ] Binary Search II
 - [ ] Binary Search III
 
-If anybody has completed any study plan/ any questions from the study plan, you are free to provide the solution.
+If anybody has completed any study plan/ any questions from the study plan, you are free to provide the solution in any language.
