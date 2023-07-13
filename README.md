@@ -4,7 +4,7 @@
 
 Following are the study plans : -
 
-- [ ] Algorithm I
+- [x] Algorithm I
 - [ ] Algorithm II
 - [ ] Algorithm III
 - [ ] Data Structure I
